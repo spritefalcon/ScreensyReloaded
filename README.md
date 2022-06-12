@@ -8,4 +8,5 @@ This is a Java Processing portable screensaver that shows users current time and
 1. Update Screensy screenshot in README ✅
 2. Get the user location to display accurate weather reading ⌛️
 3. Increase performance on lower-end devices ⌛️
-4. Add 12-hour time ⌛️
+4. Add 12-hour time ✅
+5. Add a keypress or toggle to switch from imperial units to metric ⌛
